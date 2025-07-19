@@ -16,7 +16,8 @@ upload GIF image
 framing the image
 
 
-<img width="1919" height="1030" alt="Screenshot 2025-07-20 002022" src="https://github.com/user-attachments/assets/b088fd45-b1cb-421c-822a-cc59c5afa737" />
+<img width="1919" height="1030" alt="Screenshot 2025-07-20 002022" src="https://github.com/user-attachments/assets/25fdee8b-4fc2-45e9-92aa-011b65b65af2" />
+
 
 
 
