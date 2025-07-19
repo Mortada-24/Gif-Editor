@@ -1,0 +1,50 @@
+C:\Users\Mhamad\source\repos\MultimediaProject\AnimationImage\AnimationImage\bin\Debug\AnimationImage.exe.config
+C:\Users\Mhamad\source\repos\MultimediaProject\AnimationImage\AnimationImage\bin\Debug\AnimationImage.exe
+C:\Users\Mhamad\source\repos\MultimediaProject\AnimationImage\AnimationImage\bin\Debug\AnimationImage.pdb
+C:\Users\Mhamad\source\repos\MultimediaProject\AnimationImage\AnimationImage\obj\Debug\AnimationImage.csproj.AssemblyReference.cache
+C:\Users\Mhamad\source\repos\MultimediaProject\AnimationImage\AnimationImage\obj\Debug\AnimationImage.Form1.resources
+C:\Users\Mhamad\source\repos\MultimediaProject\AnimationImage\AnimationImage\obj\Debug\AnimationImage.Properties.Resources.resources
+C:\Users\Mhamad\source\repos\MultimediaProject\AnimationImage\AnimationImage\obj\Debug\AnimationImage.csproj.GenerateResource.cache
+C:\Users\Mhamad\source\repos\MultimediaProject\AnimationImage\AnimationImage\obj\Debug\AnimationImage.csproj.CoreCompileInputs.cache
+C:\Users\Mhamad\source\repos\MultimediaProject\AnimationImage\AnimationImage\obj\Debug\AnimationImage.exe
+C:\Users\Mhamad\source\repos\MultimediaProject\AnimationImage\AnimationImage\obj\Debug\AnimationImage.pdb
+C:\Users\ALMOWSHOOR\Desktop\MultimediaProject\AnimationImage\AnimationImage\bin\Debug\AnimationImage.exe.config
+C:\Users\ALMOWSHOOR\Desktop\MultimediaProject\AnimationImage\AnimationImage\bin\Debug\AnimationImage.exe
+C:\Users\ALMOWSHOOR\Desktop\MultimediaProject\AnimationImage\AnimationImage\bin\Debug\AnimationImage.pdb
+C:\Users\ALMOWSHOOR\Desktop\MultimediaProject\AnimationImage\AnimationImage\obj\Debug\AnimationImage.csproj.AssemblyReference.cache
+C:\Users\ALMOWSHOOR\Desktop\MultimediaProject\AnimationImage\AnimationImage\obj\Debug\AnimationImage.Form1.resources
+C:\Users\ALMOWSHOOR\Desktop\MultimediaProject\AnimationImage\AnimationImage\obj\Debug\AnimationImage.Properties.Resources.resources
+C:\Users\ALMOWSHOOR\Desktop\MultimediaProject\AnimationImage\AnimationImage\obj\Debug\AnimationImage.csproj.GenerateResource.cache
+C:\Users\ALMOWSHOOR\Desktop\MultimediaProject\AnimationImage\AnimationImage\obj\Debug\AnimationImage.csproj.CoreCompileInputs.cache
+C:\Users\ALMOWSHOOR\Desktop\MultimediaProject\AnimationImage\AnimationImage\obj\Debug\AnimationImage.exe
+C:\Users\ALMOWSHOOR\Desktop\MultimediaProject\AnimationImage\AnimationImage\obj\Debug\AnimationImage.pdb
+C:\Users\Mhamad\Desktop\MultimediaProject\MultimediaProject\AnimationImage\AnimationImage\bin\Debug\AnimationImage.exe.config
+C:\Users\Mhamad\Desktop\MultimediaProject\MultimediaProject\AnimationImage\AnimationImage\bin\Debug\AnimationImage.exe
+C:\Users\Mhamad\Desktop\MultimediaProject\MultimediaProject\AnimationImage\AnimationImage\bin\Debug\AnimationImage.pdb
+C:\Users\Mhamad\Desktop\MultimediaProject\MultimediaProject\AnimationImage\AnimationImage\obj\Debug\AnimationImage.csproj.AssemblyReference.cache
+C:\Users\Mhamad\Desktop\MultimediaProject\MultimediaProject\AnimationImage\AnimationImage\obj\Debug\AnimationImage.Form1.resources
+C:\Users\Mhamad\Desktop\MultimediaProject\MultimediaProject\AnimationImage\AnimationImage\obj\Debug\AnimationImage.Properties.Resources.resources
+C:\Users\Mhamad\Desktop\MultimediaProject\MultimediaProject\AnimationImage\AnimationImage\obj\Debug\AnimationImage.csproj.GenerateResource.cache
+C:\Users\Mhamad\Desktop\MultimediaProject\MultimediaProject\AnimationImage\AnimationImage\obj\Debug\AnimationImage.csproj.CoreCompileInputs.cache
+C:\Users\Mhamad\Desktop\MultimediaProject\MultimediaProject\AnimationImage\AnimationImage\obj\Debug\AnimationImage.exe
+C:\Users\Mhamad\Desktop\MultimediaProject\MultimediaProject\AnimationImage\AnimationImage\obj\Debug\AnimationImage.pdb
+C:\Users\morta\OneDrive\سطح المكتب\MultimediaProject (2)\MultimediaProject\MultimediaProject\AnimationImage\AnimationImage\bin\Debug\AnimationImage.exe.config
+C:\Users\morta\OneDrive\سطح المكتب\MultimediaProject (2)\MultimediaProject\MultimediaProject\AnimationImage\AnimationImage\bin\Debug\AnimationImage.exe
+C:\Users\morta\OneDrive\سطح المكتب\MultimediaProject (2)\MultimediaProject\MultimediaProject\AnimationImage\AnimationImage\bin\Debug\AnimationImage.pdb
+C:\Users\morta\OneDrive\سطح المكتب\MultimediaProject (2)\MultimediaProject\MultimediaProject\AnimationImage\AnimationImage\obj\Debug\AnimationImage.csproj.AssemblyReference.cache
+C:\Users\morta\OneDrive\سطح المكتب\MultimediaProject (2)\MultimediaProject\MultimediaProject\AnimationImage\AnimationImage\obj\Debug\AnimationImage.Form1.resources
+C:\Users\morta\OneDrive\سطح المكتب\MultimediaProject (2)\MultimediaProject\MultimediaProject\AnimationImage\AnimationImage\obj\Debug\AnimationImage.Properties.Resources.resources
+C:\Users\morta\OneDrive\سطح المكتب\MultimediaProject (2)\MultimediaProject\MultimediaProject\AnimationImage\AnimationImage\obj\Debug\AnimationImage.csproj.GenerateResource.cache
+C:\Users\morta\OneDrive\سطح المكتب\MultimediaProject (2)\MultimediaProject\MultimediaProject\AnimationImage\AnimationImage\obj\Debug\AnimationImage.csproj.CoreCompileInputs.cache
+C:\Users\morta\OneDrive\سطح المكتب\MultimediaProject (2)\MultimediaProject\MultimediaProject\AnimationImage\AnimationImage\obj\Debug\AnimationImage.exe
+C:\Users\morta\OneDrive\سطح المكتب\MultimediaProject (2)\MultimediaProject\MultimediaProject\AnimationImage\AnimationImage\obj\Debug\AnimationImage.pdb
+D:\02 Mortada Abbas - Main\MultimediaProject (2)\MultimediaProject\MultimediaProject\AnimationImage\AnimationImage\bin\Debug\AnimationImage.exe.config
+D:\02 Mortada Abbas - Main\MultimediaProject (2)\MultimediaProject\MultimediaProject\AnimationImage\AnimationImage\bin\Debug\AnimationImage.exe
+D:\02 Mortada Abbas - Main\MultimediaProject (2)\MultimediaProject\MultimediaProject\AnimationImage\AnimationImage\bin\Debug\AnimationImage.pdb
+D:\02 Mortada Abbas - Main\MultimediaProject (2)\MultimediaProject\MultimediaProject\AnimationImage\AnimationImage\obj\Debug\AnimationImage.csproj.AssemblyReference.cache
+D:\02 Mortada Abbas - Main\MultimediaProject (2)\MultimediaProject\MultimediaProject\AnimationImage\AnimationImage\obj\Debug\AnimationImage.Form1.resources
+D:\02 Mortada Abbas - Main\MultimediaProject (2)\MultimediaProject\MultimediaProject\AnimationImage\AnimationImage\obj\Debug\AnimationImage.Properties.Resources.resources
+D:\02 Mortada Abbas - Main\MultimediaProject (2)\MultimediaProject\MultimediaProject\AnimationImage\AnimationImage\obj\Debug\AnimationImage.csproj.GenerateResource.cache
+D:\02 Mortada Abbas - Main\MultimediaProject (2)\MultimediaProject\MultimediaProject\AnimationImage\AnimationImage\obj\Debug\AnimationImage.csproj.CoreCompileInputs.cache
+D:\02 Mortada Abbas - Main\MultimediaProject (2)\MultimediaProject\MultimediaProject\AnimationImage\AnimationImage\obj\Debug\AnimationImage.exe
+D:\02 Mortada Abbas - Main\MultimediaProject (2)\MultimediaProject\MultimediaProject\AnimationImage\AnimationImage\obj\Debug\AnimationImage.pdb
